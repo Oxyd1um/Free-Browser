@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Free Browser
+Comment=A free and open-source web browser
+Exec=AppRun %U
+Icon=free-browser
+Terminal=false
+Categories=Network;WebBrowser;
+StartupNotify=true
